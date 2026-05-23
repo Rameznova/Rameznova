@@ -48,7 +48,7 @@ I build beautiful, high-performance cross-platform mobile applications, tweak my
 ### 📫 Connect With Me
 
 *   💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-*   🌐 **Portfolio/Agency:** [Your Website](https://yourwebsite.com)
+*   🌐 **Portfolio:** [Your Website](https://yourwebsite.com)
 *   💬 Ask me about Flutter UI, Arch configurations, or how to prompt inject a code generation model for complex state logic.
 
 
